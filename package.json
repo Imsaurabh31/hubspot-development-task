@@ -1,11 +1,11 @@
 {
-  "name": "hubspot-development-task-local",
+  "name": "hubspot-development-task",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite"
+    "build": "node node_modules/vite/bin/vite.js build"
   },
   "devDependencies": {
     "vite": "^7.0.0"
