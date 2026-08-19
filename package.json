@@ -1,0 +1,13 @@
+{
+  "name": "hubspot-development-task-local",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
